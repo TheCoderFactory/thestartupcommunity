@@ -6,6 +6,7 @@ group :assets do
   gem 'uglifier'
   gem "asset_sync"
 end
+gem 'seed_dump', group: :development
 gem 'jquery-rails'
 gem "thin"
 gem "pg"

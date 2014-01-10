@@ -17,7 +17,7 @@ development:
   encoding: unicode
   database: tsc003_development
   pool: 5
-  username: Pete
+  username: 
   password: 
   template: template0
 
@@ -44,7 +44,7 @@ test: &test
   encoding: unicode
   database: tsc003_test
   pool: 5
-  username: Pete
+  username: 
   password: 
   template: template0
 
@@ -53,7 +53,7 @@ production:
   encoding: unicode
   database: tsc003_production
   pool: 5
-  username: Pete
+  username: 
   password: 
   template: template0
 

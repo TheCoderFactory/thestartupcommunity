@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #----------------------------------------------------------------------------
 # Ignore these files when commiting to a git repository.
 #
@@ -34,6 +33,7 @@ db/*.sqlite3
 /coverage/
 /db/*.javadb/
 /db/*.sqlite3
+/db/seeds.rb
 /doc/api/
 /doc/app/
 /doc/features.html
@@ -94,4 +94,3 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.html
->>>>>>> c31c4f886764b227b9b4fb34696733edb255fe87
